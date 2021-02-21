@@ -60,4 +60,4 @@ export const requestUsers = (currentPage = 1, pageSize: number): ThunkType => {
 Languages: English – intermediate; Russian – native
 
 
-Technical Skills: HTML, CSS, Javascript/TypeScript, React/Redux/Next.js, Vue/Vuex, Node, Webpack, MongoDB, SQL, Ajax, OOP, Babel, MS (Excel, PowerPoint, Word, Access), Bloomberg, SAP
+Technical Skills: HTML, CSS, Javascript/TypeScript, React/Redux/Next.js, Vue/Vuex, Node.js, Webpack, MongoDB, SQL, Ajax, OOP, Babel, MS (Excel, PowerPoint, Word, Access), Bloomberg, SAP
