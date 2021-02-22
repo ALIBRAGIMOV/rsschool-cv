@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 16pt;
+}
+
+.container{
+    width: 1024px; margin: auto;
+}
+
+.img{
+    border-radius: 1200px;
+    float: right;
+}
+
+.myGithubLink {
+  text-decoration: none;
+  float: right;
+  color: black
+}
+
+
+.rssLogo{
+  display: block;
+  width: 100px;
+  height: 50px;
+  background: url(./img/rs_school_js.svg) center no-repeat;
+  background-size: contain;
+}
